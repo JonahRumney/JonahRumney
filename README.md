@@ -20,10 +20,36 @@ I'm Jonah Rumney, a Computer Science student at Northern Michigan University liv
 
 <h2 style="border-bottom: none;">Proficient In</h2>
 
-* asdf
+* C++
+* Java
+* Windows Command Line
+* VS Code
  
- <h2 style="border-bottom: none;">Proficient In</h2>
- <h2 style="border-bottom: none;">Proficient In</h2>
+ <h2 style="border-bottom: none;">Experience with</h2>
+
+ * HTML
+ * CSS
+ * JavaScript
+ * Vue.js
+ * Assembly
+ * Git
+ * Linux Command Line
+ <h2 style="border-bottom: none;">Coursework In</h2>
+
+ * Data Structures
+ * Object Oriented Programming
+ * Programming in Java
+ * Programming in C++
+ * Client-Side Web Programming
+ * Network Programming
+ * Microcomputer Architecture 
+ * Website Construction
+ * Discrete Mathematics
+
+ <h2 style="border-bottom: none;">Please reach out if you have any questions!</h2>
+
+
+ 
 
 
 
