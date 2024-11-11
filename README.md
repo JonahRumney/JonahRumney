@@ -34,9 +34,13 @@ I'm Jonah Rumney, a Computer Science student at Northern Michigan University liv
  * Assembly
  * Git
  * Linux Command Line
+ * JUnit 
+ * Jest 
  <h2 style="border-bottom: none;">Coursework In</h2>
 
  * Data Structures
+ * Database Management
+ * Software Engineering
  * Object Oriented Programming
  * Programming in Java
  * Programming in C++
@@ -45,6 +49,8 @@ I'm Jonah Rumney, a Computer Science student at Northern Michigan University liv
  * Microcomputer Architecture 
  * Website Construction
  * Discrete Mathematics
+
+
 
  <h2 style="border-bottom: none;">Please reach out if you have any questions!</h2>
 
